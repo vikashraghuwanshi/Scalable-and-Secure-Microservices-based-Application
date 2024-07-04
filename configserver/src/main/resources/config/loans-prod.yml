@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Bank loans related prod APIs "
+  contactDetails:
+    name: "Reine Aishwarya - Developer"
+    email: "Reine@bank.com"
+  onCallSupport:
+    - (453) 345-8576
+    - (666) 746-0893

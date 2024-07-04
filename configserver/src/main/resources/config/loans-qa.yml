@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Bank loans related wa APIs "
+  contactDetails:
+    name: "Smitha Ray - Developer"
+    email: "smitha@bank.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
